@@ -1,0 +1,6 @@
+{
+  "name": "FJ Mobile VN",
+  "description": "FJ Mobile VN - Rainbow Performance & Multi-Channel Studio with Walking AI Widget, CPU Cooler, Bluetooth Microphone, and Social Auto-Uploader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
